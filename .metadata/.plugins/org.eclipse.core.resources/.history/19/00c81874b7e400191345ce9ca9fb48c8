@@ -1,0 +1,22 @@
+package firstJavaProject;
+
+public class ContaBancaria {
+		
+	String titular;
+	double saldo;
+	int numCC;	
+	
+	public void getSaldo() {
+		
+	}
+
+	public void deposita() {
+		
+	}
+
+	public void saque() {
+		
+	}
+	
+	
+}

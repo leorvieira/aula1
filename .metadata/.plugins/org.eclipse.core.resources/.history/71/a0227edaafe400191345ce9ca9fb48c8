@@ -1,0 +1,9 @@
+package firstJavaProject;
+
+public class Pessoa {
+	
+	String nome;
+	int idade;
+	double peso;
+
+}
